@@ -163,17 +163,17 @@ Boost your coding skills with 500 curated resources in this GitHub repository. E
 - [Stack Exchange (Stack Exchange)](https://stackexchange.com/) - Various specific language-related communities can be found here.
 - [Quora (Quora)](https://www.quora.com/) - Explore programming-related topics on Quora.
 
-## Blogs and Publications:
-- Medium (Medium)
-- Towards Data Science (Towards Data Science)
-- Smashing Magazine (Smashing Magazine)
-- CSS-Tricks (CSS-Tricks)
-- A List Apart (A List Apart)
-- SitePoint (SitePoint)
-- DZone (DZone) - For programming-related articles.
-- Mozilla Developer Network (MDN) Web Docs (MDN Web Docs)
-- InfoQ (InfoQ)
-- The New Stack (The New Stack)
+## 📰Blogs and Publications:
+- [Medium (Medium)](https://medium.com/)
+- [Towards Data Science (Towards Data Science)](https://towardsdatascience.com/)
+- [Smashing Magazine (Smashing Magazine)](https://www.smashingmagazine.com/)
+- [CSS-Tricks (CSS-Tricks)](https://css-tricks.com/)
+- [A List Apart (A List Apart)](https://alistapart.com/)
+- [SitePoint (SitePoint)](https://www.sitepoint.com/)
+- [DZone (DZone)](https://dzone.com/) - For programming-related articles.
+- [Mozilla Developer Network (MDN) Web Docs (MDN Web Docs)](https://developer.mozilla.org/en-US/)
+- [InfoQ (InfoQ)](https://www.infoq.com/)
+- [The New Stack (The New Stack)](https://thenewstack.io/)
 
 ## Podcasts:
 - Software Engineering Daily (Software Engineering Daily)
