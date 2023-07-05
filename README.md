@@ -389,17 +389,17 @@ Boost your coding skills with 500 curated resources in this GitHub repository. E
 - [DevOps subreddit: DevOps subreddit](https://www.reddit.com/r/devops/)
 - [DevOps.com: DevOps.com](https://devops.com/)
 
-## Artificial Intelligence and Machine Learning:
-- TensorFlow Documentation: TensorFlow Documentation
-- PyTorch Documentation: PyTorch Documentation
-- scikit-learn Documentation: scikit-learn Documentation
-- Fast.ai: Fast.ai
-- Kaggle: Kaggle
-- Machine Learning Mastery: Machine Learning Mastery
-- Stanford CS229: Machine Learning course: Stanford CS229: Machine Learning course
-- deeplearning.ai: deeplearning.ai
-- Papers with Code: Papers with Code
-- AI Trends: AI Trends
+## 🤖Artificial Intelligence and Machine Learning:
+- [TensorFlow Documentation: TensorFlow Documentation](https://www.tensorflow.org/)
+- [PyTorch Documentation: PyTorch Documentation](https://pytorch.org/docs/)
+- [scikit-learn Documentation: scikit-learn Documentation](https://scikit-learn.org/stable/)
+- [Fast.ai: Fast.ai](https://www.fast.ai/)
+- [Kaggle: Kaggle](https://www.kaggle.com/)
+- [Machine Learning Mastery: Machine Learning Mastery](https://machinelearningmastery.com/)
+- [Stanford CS229: Machine Learning course: Stanford CS229: Machine Learning course](https://see.stanford.edu/Course/CS229)
+- [deeplearning.ai: deeplearning.ai](https://www.deeplearning.ai/)
+- [Papers with Code: Papers with Code](https://paperswithcode.com/)
+- [AI Trends: AI Trends](https://www.aitrends.com/)
 
 ## Cybersecurity:
 - OWASP (Open Web Application Security Project): OWASP
