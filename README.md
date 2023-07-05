@@ -310,27 +310,27 @@ Boost your coding skills with 500 curated resources in this GitHub repository. E
 - Data Structures and Algorithms in JavaScript by Michael McMillan:[ Data Structures and Algorithms in JavaScript](https://www.amazon.com/Data-Structures-Algorithms-JavaScript-McMillan/dp/1484242180)
 - Competitive Programmer's Handbook by Antti Laaksonen: [Competitive Programmer's Handbook](https://cses.fi/book/index.html)
 
-## Software Development Tools:
-- IntelliJ IDEA: IntelliJ IDEA
-- Visual Studio Code: Visual Studio Code
-- Eclipse: Eclipse
-- PyCharm: PyCharm
-- Sublime Text: Sublime Text
-- Atom: Atom
-- Vim: Vim
-- NetBeans: NetBeans
-- Xcode: Xcode
-- Android Studio: Android Studio
-- Code::Blocks: Code::Blocks
-- Brackets: Brackets
-- Rider: Rider
-- Komodo IDE: Komodo IDE
-- Jupyter Notebook: Jupyter Notebook
-- Qt Creator: Qt Creator
-- Emacs: Emacs
-- CodeLite: CodeLite
-- BlueJ: BlueJ
-
+## ⚙Software Development Tools:
+- [IntelliJ IDEA: IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [Visual Studio Code: Visual Studio Code](https://code.visualstudio.com/)
+- [Eclipse: Eclipse](https://www.eclipse.org/)
+- [PyCharm: PyCharm](https://www.jetbrains.com/pycharm/)
+- [Sublime Text: Sublime Text](https://www.sublimetext.com/)
+- [Atom: Atom](https://atom.io/)
+- [Vim: Vim](https://www.vim.org/)
+- [NetBeans: NetBeans](https://netbeans.apache.org/)
+- [Xcode: Xcode](https://developer.apple.com/xcode/)
+- [Android Studio: Android Studio](https://developer.android.com/studio/)
+- [Code::Blocks: Code::Blocks](http://www.codeblocks.org/)
+- [Brackets: Brackets](http://brackets.io/)
+- [Rider: Rider](https://www.jetbrains.com/rider/)
+- [Komodo IDE: Komodo IDE](https://www.activestate.com/products/komodo-ide/)
+- [Jupyter Notebook: Jupyter Notebook](https://jupyter.org/)
+- [Qt Creator: Qt Creator](https://www.qt.io/qt-features-libraries-apis-tools-and-ide/)
+- [Emacs: Emacs](https://www.gnu.org/software/emacs/)
+- [CodeLite: CodeLite](https://codelite.org/)
+- [BlueJ: BlueJ](https://www.bluej.org/)
+  
 ## Software Engineering Blogs:
 - Martin Fowler's Blog: Martin Fowler's Blog
 - Joel on Software: Joel on Software
