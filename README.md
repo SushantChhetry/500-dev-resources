@@ -266,17 +266,17 @@ Boost your coding skills with 500 curated resources in this GitHub repository. E
 - [Hashnode DEV Community (Hashnode DEV Community)](https://hashnode.com/)
 - [Discord.py Community Server (Discord.py Community Server)](https://discord.gg/r3sSKJJ)
 
-## Version Control and Collaboration:
-- Git documentation (Git documentation)
-- GitHub Guides (GitHub Guides)
-- Atlassian Git tutorials (Atlassian Git tutorials)
-- GitLab documentation (GitLab documentation)
-- Bitbucket documentation (Bitbucket documentation)
-- SourceForge (SourceForge)
-- Beanstalk (Beanstalk)
-- Assembla (Assembla)
-- Phabricator (Phabricator)
-- GitKraken (GitKraken)
+## 🌿Version Control and Collaboration:
+- [Git documentation (Git documentation)](https://git-scm.com/doc)
+- [GitHub Guides (GitHub Guides)](https://guides.github.com/)
+- [Atlassian Git tutorials (Atlassian Git tutorials)](https://www.atlassian.com/git/tutorials)
+- [GitLab documentation (GitLab documentation)](https://docs.gitlab.com/)
+- [Bitbucket documentation (Bitbucket documentation)](https://support.atlassian.com/bitbucket/)
+- [SourceForge (SourceForge)](https://sourceforge.net/)
+- [Beanstalk (Beanstalk)](https://www.beanstalkapp.com/)
+- [Assembla (Assembla)](https://www.assembla.com/)
+- [Phabricator (Phabricator)](https://www.phacility.com/phabricator/)
+- [GitKraken (GitKraken)](https://www.gitkraken.com/)
 
 ## Design and User Experience (UX):
 - Smashing Magazine (Smashing Magazine)
