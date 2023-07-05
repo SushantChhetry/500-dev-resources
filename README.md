@@ -472,22 +472,22 @@ Boost your coding skills with 500 curated resources in this GitHub repository. E
 - Angular - The Complete Guide (Udemy): [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 - iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp (Udemy): iOS 13 & Swift 5 - [The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 
-## Tech Personalities
-- Elon Musk - CEO of Tesla and SpaceX: Elon Musk on Twitter
-- Tim Cook - CEO of Apple Inc.: Tim Cook on Twitter
-- Satya Nadella - CEO of Microsoft: Satya Nadella on Twitter
-- Jeff Bezos - Founder of Amazon and Blue Origin: Jeff Bezos on Twitter
-- Mark Zuckerberg - CEO of Facebook: Mark Zuckerberg on Facebook
-- Sundar Pichai - CEO of Google and Alphabet Inc.: Sundar Pichai on Twitter
-- Marissa Mayer - Former CEO of Yahoo: Marissa Mayer on Twitter
-- Sheryl Sandberg - COO of Facebook: Sheryl Sandberg on Facebook
-- Linus Torvalds - Creator of Linux kernel: Linus Torvalds on Twitter
-- Mary Meeker - Venture capitalist and Internet Trends report author: Mary Meeker on Twitter
-- Kara Swisher - Technology journalist and co-founder of Recode: Kara Swisher on Twitter
-- Marc Andreessen - Co-founder of Netscape and venture capitalist: Marc Andreessen on Twitter
-- Susan Wojcicki - CEO of YouTube: Susan Wojcicki on Twitter
-- Brian Chesky - CEO of Airbnb: Brian Chesky on Twitter
-- Jack Dorsey - CEO of Twitter and Square: Jack Dorsey on Twitter
+## 🕺🏽💃🏽Tech Personalities
+- Elon Musk - CEO of Tesla and SpaceX: [Elon Musk on Twitter](https://twitter.com/elonmusk)
+- Tim Cook - CEO of Apple Inc.: [Tim Cook on Twitter](https://twitter.com/tim_cook)
+- Satya Nadella - CEO of Microsoft: [Satya Nadella on Twitter](https://twitter.com/satyanadella)
+- Jeff Bezos - Founder of Amazon and Blue Origin: [Jeff Bezos on Twitter](https://twitter.com/JeffBezos)
+- Mark Zuckerberg - CEO of Facebook: [Mark Zuckerberg on Facebook](https://www.facebook.com/zuck)
+- Sundar Pichai - CEO of Google and Alphabet Inc.: [Sundar Pichai on Twitter](https://twitter.com/sundarpichai)
+- Marissa Mayer - Former CEO of Yahoo: [Marissa Mayer on Twitter](https://twitter.com/marissamayer)
+- Sheryl Sandberg - COO of Facebook: [Sheryl Sandberg on Facebook](https://www.facebook.com/sheryl)
+- Linus Torvalds - Creator of Linux kernel: [Linus Torvalds on Twitter](https://twitter.com/linus__torvalds)
+- Mary Meeker - Venture capitalist and Internet Trends report author: [Mary Meeker on Twitter](https://twitter.com/marymeeker)
+- Kara Swisher - Technology journalist and co-founder of Recode: [Kara Swisher on Twitter](https://twitter.com/karaswisher)
+- Marc Andreessen - Co-founder of Netscape and venture capitalist: [Marc Andreessen on Twitter](https://twitter.com/pmarca)
+- Susan Wojcicki - CEO of YouTube: [Susan Wojcicki on Twitter](https://twitter.com/SusanWojcicki)
+- Brian Chesky - CEO of Airbnb: [Brian Chesky on Twitter](https://twitter.com/bchesky)
+- Jack Dorsey - CEO of Twitter and Square: [Jack Dorsey on Twitter](https://twitter.com/jack)
 
 ## Github Repositories
 - The Odin Project: A full-stack curriculum and learning platform for web development.
