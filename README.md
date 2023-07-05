@@ -151,17 +151,17 @@ Boost your coding skills with 500 curated resources in this GitHub repository. E
 - [Official documentation for Mockito (Mockito Docs): Mockito Docs](https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html)
 - [Official documentation for Chai (Chai Docs): Chai Docs](https://www.chaijs.com/api/)
 
-## Online Coding Communities:
-- Stack Overflow (Stack Overflow)
-- GitHub (GitHub)
-- Reddit Programming (Reddit Programming)
-- Hashnode (Hashnode)
-- Dev.to (Dev.to)
-- CodeProject (CodeProject)
-- DZone (DZone)
-- CodeNewbie (CodeNewbie)
-- Stack Exchange (Stack Exchange) - Various specific language-related communities can be found here.
-- Quora (Quora) - Explore programming-related topics on Quora.
+## 👋🏽Online Coding Communities:
+- [Stack Overflow (Stack Overflow)](https://stackoverflow.com/)
+- [GitHub (GitHub)](https://github.com/)
+- [Reddit Programming (Reddit Programming)](https://www.reddit.com/r/programming/)
+- [Hashnode (Hashnode)](https://hashnode.com/)
+- [Dev.to (Dev.to)](https://dev.to/)
+- [CodeProject (CodeProject)](https://www.codeproject.com/)
+- [DZone (DZone)](https://dzone.com/)
+- [CodeNewbie (CodeNewbie)](https://www.codenewbie.org/)
+- [Stack Exchange (Stack Exchange)](https://stackexchange.com/) - Various specific language-related communities can be found here.
+- [Quora (Quora)](https://www.quora.com/) - Explore programming-related topics on Quora.
 
 ## Blogs and Publications:
 - Medium (Medium)
