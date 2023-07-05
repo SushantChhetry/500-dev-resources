@@ -425,28 +425,28 @@ Boost your coding skills with 500 curated resources in this GitHub repository. E
 - [Oracle Cloud Documentation: Oracle Cloud Documentation](https://docs.oracle.com/en/cloud/)
 - [VMware Cloud Documentation: VMware Cloud Documentation](https://docs.vmware.com/)
 
-## Software Engineering Books:
-- Clean Code by Robert C. Martin: Clean Code
-- Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides: Design Patterns
-- The Pragmatic Programmer by Andrew Hunt and David Thomas: The Pragmatic Programmer
-- Refactoring: Improving the Design of Existing Code by Martin Fowler: Refactoring
-- Code Complete by Steve McConnell: Code Complete
-- The Mythical Man-Month: Essays on Software Engineering by Frederick P. Brooks Jr.: The Mythical Man-Month
-- The Clean Coder: A Code of Conduct for Professional Programmers by Robert C. Martin: The Clean Coder
-- Introduction to the Theory of Computation by Michael Sipser: Introduction to the Theory of Computation
-- Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans: Domain-Driven Design
-- The Pragmatic Bookshelf series: The Pragmatic Bookshelf
-- Head First Design Patterns by Eric Freeman, Elisabeth Robson, Bert Bates, and Kathy Sierra: Head First Design Patterns
-- The Art of Computer Programming by Donald E. Knuth: The Art of Computer Programming
-- Working Effectively with Legacy Code by Michael C. Feathers: Working Effectively with Legacy Code
-- Structure and Interpretation of Computer Programs by Harold Abelson and Gerald Jay Sussman: Structure and Interpretation of Computer Programs
-- Domain-Driven Design Distilled by Vaughn Vernon: Domain-Driven Design Distilled
-- Test-Driven Development: By Example by Kent Beck: Test-Driven Development
-- Software Engineering: A Practitioner's Approach by Roger S. Pressman: Software Engineering: A Practitioner's Approach
-- The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations by Gene Kim, Jez Humble, Patrick Debois, and John Willis: The DevOps Handbook
-- Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein: Introduction to Algorithms
-- Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Jez Humble and David Farley: Continuous Delivery
-
+## 📚Software Engineering Books:
+- Clean Code by Robert C. Martin: [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides: [Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+- The Pragmatic Programmer by Andrew Hunt and David Thomas: [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+- Refactoring: Improving the Design of Existing Code by Martin Fowler: [Refactoring](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599)
+- Code Complete by Steve McConnell: [Code Complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+- The Mythical Man-Month: Essays on Software Engineering by Frederick P. Brooks Jr.: [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
+- The Clean Coder: A Code of Conduct for Professional Programmers by Robert C. Martin: [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+- Introduction to the Theory of Computation by Michael Sipser: [Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X)
+- Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans: [Domain-Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+- The Pragmatic Bookshelf series: [The Pragmatic Bookshelf](https://pragprog.com/)
+- Head First Design Patterns by Eric Freeman, Elisabeth Robson, Bert Bates, and Kathy Sierra: [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
+- The Art of Computer Programming by Donald E. Knuth: [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
+- Working Effectively with Legacy Code by Michael C. Feathers: [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
+- Structure and Interpretation of Computer Programs by Harold Abelson and Gerald Jay Sussman: [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+- Domain-Driven Design Distilled by Vaughn Vernon: [Domain-Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
+- Test-Driven Development: By Example by Kent Beck: [Test-Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+- Software Engineering: A Practitioner's Approach by Roger S. Pressman: Software Engineering: [A Practitioner's Approach](https://www.amazon.com/Software-Engineering-Practitioners-Roger-Pressman/dp/0078022126)
+- The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations by Gene Kim, Jez Humble, Patrick Debois, and John Willis: [The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
+- Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein: [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262533057)
+- Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Jez Humble and David Farley:[ Continuous Delivery
+](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
 
 ## Software Engineering Podcasts:
 - Software Engineering Radio: Software Engineering Radio
