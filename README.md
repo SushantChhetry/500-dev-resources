@@ -353,17 +353,17 @@ Boost your coding skills with 500 curated resources in this GitHub repository. E
 - [UX Planet: UX Planet](https://uxplanet.org/)
 - [Better Programming: Better Programming](https://betterprogramming.pub/)
 
-## Web Development:
-- MDN Web Docs: MDN Web Docs
-- W3Schools: W3Schools
-- CSS-Tricks: CSS-Tricks
-- A List Apart: A List Apart
-- Smashing Magazine: Smashing Magazine
-- SitePoint: SitePoint
-- Codrops: Codrops
-- Scotch.io: Scotch.io
-- Web.dev: Web.dev
-- Speckyboy: Speckyboy
+## 🕸Web Development:
+- [MDN Web Docs: MDN Web Docs](https://developer.mozilla.org/)
+- [W3Schools: W3Schools](https://www.w3schools.com/)
+- [CSS-Tricks: CSS-Tricks](https://css-tricks.com/)
+- [A List Apart: A List Apart](https://alistapart.com/)
+- [Smashing Magazine: Smashing Magazine](https://www.smashingmagazine.com/)
+- [SitePoint: SitePoint](https://www.sitepoint.com/)
+- [Codrops: Codrops](https://tympanus.net/codrops/)
+- [Scotch.io: Scotch.io](https://scotch.io/)
+- [Web.dev: Web.dev](https://web.dev/)
+- [Speckyboy: Speckyboy](https://speckyboy.com/)
 
 ## Mobile App Development:
 - Official Android Developer Documentation: Android Developer Documentation
