@@ -278,17 +278,17 @@ Boost your coding skills with 500 curated resources in this GitHub repository. E
 - [Phabricator (Phabricator)](https://www.phacility.com/phabricator/)
 - [GitKraken (GitKraken)](https://www.gitkraken.com/)
 
-## Design and User Experience (UX):
-- Smashing Magazine (Smashing Magazine)
-- UX Collective (UX Collective)
-- Nielsen Norman Group (Nielsen Norman Group)
-- UX Design Weekly (UX Design Weekly)
-- InVision Blog (InVision Blog)
-- A List Apart (A List Apart)
-- UX Booth (UX Booth)
-- Adobe XD Ideas (Adobe XD Ideas)
-- UX Mastery (UX Mastery)
-- UXPin Blog (UXPin Blog)
+## 🎨Design and User Experience (UX):
+- [Smashing Magazine (Smashing Magazine)](https://www.smashingmagazine.com/)
+- [UX Collective (UX Collective)](https://uxdesign.cc/)
+- [Nielsen Norman Group (Nielsen Norman Group)](https://www.nngroup.com/)
+- [UX Design Weekly (UX Design Weekly)](https://uxdesignweekly.com/)
+- [InVision Blog (InVision Blog)](https://www.invisionapp.com/inside-design/)
+- [A List Apart (A List Apart)](https://alistapart.com/)
+- [UX Booth (UX Booth)](https://www.uxbooth.com/)
+- [Adobe XD Ideas (Adobe XD Ideas)](https://xd.adobe.com/ideas/)
+- [UX Mastery (UX Mastery)](https://uxmastery.com/)
+- [UXPin Blog (UXPin Blog)](https://www.uxpin.com/studio/blog/)
 
 ## Data Structures and Algorithms:
 - Algorithms, Part I and Part II on edX (by Princeton University): Algorithms, Part I and - Algorithms, Part II
