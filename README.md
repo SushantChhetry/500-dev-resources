@@ -460,17 +460,17 @@ Boost your coding skills with 500 curated resources in this GitHub repository. E
 - Coding Blocks: Coding Blocks
 - JavaScript Jabber: JavaScript Jabber
 
-## Online Courses and Tutorials:
-- The Complete Web Developer Bootcamp (Udemy): The Complete Web Developer Bootcamp
-- Harvard's CS50 Introduction to Computer Science: CS50 Introduction to Computer Science
-- The Complete JavaScript Course (Udemy): The Complete JavaScript Course
-- Machine Learning by Andrew Ng on Coursera: Machine Learning by Andrew Ng
-- The Complete Android N Developer Course (Udemy): The Complete Android N Developer Course
-- Deep Learning Specialization on Coursera: Deep Learning Specialization
-- The Complete Node.js Developer Course (Udemy): The Complete Node.js Developer Course
-- Python for Data Science and Machine Learning Bootcamp (Udemy): Python for Data Science and Machine Learning Bootcamp
-- Angular - The Complete Guide (Udemy): Angular - The Complete Guide
-- iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp (Udemy): iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp
+## 👨🏽‍🏫Online Courses and Tutorials:
+- The Complete Web Developer Bootcamp (Udemy): [The Complete Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
+- Harvard's CS50 Introduction to Computer Science: [CS50 Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
+- The Complete JavaScript Course (Udemy): [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/)
+- Machine Learning by Andrew Ng on Coursera:[ Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+- The Complete Android N Developer Course (Udemy): [The Complete Android N Developer Course](https://www.udemy.com/course/the-complete-android-n-developer-course/)
+- Deep Learning Specialization on Coursera: [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- The Complete Node.js Developer Course (Udemy): [The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+- Python for Data Science and Machine Learning Bootcamp (Udemy): [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+- Angular - The Complete Guide (Udemy): [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+- iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp (Udemy): iOS 13 & Swift 5 - [The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 
 ## Tech Personalities
 - Elon Musk - CEO of Tesla and SpaceX: Elon Musk on Twitter
