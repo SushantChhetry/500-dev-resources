@@ -290,25 +290,25 @@ Boost your coding skills with 500 curated resources in this GitHub repository. E
 - [UX Mastery (UX Mastery)](https://uxmastery.com/)
 - [UXPin Blog (UXPin Blog)](https://www.uxpin.com/studio/blog/)
 
-## Data Structures and Algorithms:
-- Algorithms, Part I and Part II on edX (by Princeton University): Algorithms, Part I and - Algorithms, Part II
-- Introduction to Algorithms: A Creative Approach by Udi Manber: Introduction to Algorithms: A Creative Approach
-- Data Structures and Algorithms in Java by Robert Lafore: Data Structures and Algorithms in Java
-- Algorithms Unlocked by Thomas H. Cormen: Algorithms Unlocked
-- The Design and Analysis of Algorithms by Anany Levitin: The Design and Analysis of Algorithms
-- Algorithm Design by Jon Kleinberg and Éva Tardos: Algorithm Design
-- Data Structures and Algorithms: Annotated Reference with Examples by Granville Barnett and Luca Del Tongo: Data Structures and Algorithms: Annotated Reference with Examples
-- Algorithms, Part I and Part II on Khan Academy: Algorithms, Part I and Algorithms, Part II
-- The Algorithm Design Manual by Jörg Arndt: The Algorithm Design Manual
-- Algorithm Design and Applications by Michael T. Goodrich and Roberto Tamassia: Algorithm Design and Applications
-- Data Structures and Algorithms Made Easy by Narasimha Karumanchi: Data Structures and Algorithms Made Easy
-- Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People by Aditya Bhargava: Grokking Algorithms
-- Algorithms, Part I and Part II on Udemy (by Kevin Wayne and Robert Sedgewick): Algorithms, Part I and Algorithms, Part II
-- Data Structures and Algorithms in C++ by Adam Drozdek: Data Structures and Algorithms in C++
-- Data Structures and Algorithms: An Introduction by Mark Allen Weiss: Data Structures and Algorithms: An Introduction
-- Algorithms, Part I and Part II on Codecademy (by UC San Diego): Algorithms, Part I and Algorithms, Part II
-- Data Structures and Algorithms in JavaScript by Michael McMillan: Data Structures and Algorithms in JavaScript
-- Competitive Programmer's Handbook by Antti Laaksonen: Competitive Programmer's Handbook
+## 📦Data Structures and Algorithms:
+- Algorithms, Part I and Part II on edX (by Princeton University): [Algorithms, Part I](https://www.edx.org/professional-certificate/algorithms-part-i) and - [Algorithms, Part II](https://www.edx.org/professional-certificate/algorithms-part-ii)
+- Introduction to Algorithms: A Creative Approach by Udi Manber:[ Introduction to Algorithms: A Creative Approach](https://www.pearson.com/us/higher-education/program/Manber-Introduction-to-Algorithms-A-Creative-Approach/PGM1511334.html)
+- Data Structures and Algorithms in Java by Robert Lafore:[ Data Structures and Algorithms in Java](https://www.oreilly.com/library/view/data-structures-and/156729536X/)
+- Algorithms Unlocked by Thomas H. Cormen: [Algorithms Unlocked](https://mitpress.mit.edu/books/algorithms-unlocked)
+- The Design and Analysis of Algorithms by Anany Levitin:[ The Design and Analysis of Algorithms](https://www.pearson.com/us/higher-education/program/Levitin-Design-and-Analysis-of-Algorithms-3rd-Edition/PGM1114806.html)
+- Algorithm Design by Jon Kleinberg and Éva Tardos: [Algorithm Design](https://www.pearson.com/us/higher-education/program/Kleinberg-Algorithm-Design/PGM201295.html)
+- Data Structures and Algorithms:[ Annotated Reference with Examples by Granville Barnett and Luca Del Tongo: Data Structures and Algorithms: Annotated Reference with Examples](https://www.springer.com/gp/book/9781848822554)
+- Algorithms, Part I and Part II on Khan Academy: [Algorithms, Part I](https://www.khanacademy.org/computing/computer-science/algorithms) and [Algorithms, Part II](https://www.khanacademy.org/computing/computer-science/algorithms2)
+- The Algorithm Design Manual by Jörg Arndt: [The Algorithm Design Manual](http://www.algorithm-design-manual.net/)
+- Algorithm Design and Applications by Michael T. Goodrich and Roberto Tamassia: [Algorithm Design and Applications](https://www.wiley.com/en-us/Algorithm+Design+and+Applications-p-9781118335918)
+- Data Structures and Algorithms Made Easy by Narasimha Karumanchi: [Data Structures and Algorithms Made Easy](https://www.amazon.com/Structures-Algorithms-Made-Easy-Structures/dp/8192107558)
+- Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People by Aditya Bhargava: [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
+- Algorithms, Part I and Part II on Udemy (by Kevin Wayne and Robert Sedgewick):[ Algorithms, Part I ](https://www.udemy.com/course/algorithms-part-i/)and [Algorithms, Part II](https://www.udemy.com/course/algorithms-part-ii/)
+- Data Structures and Algorithms in C++ by Adam Drozdek: [Data Structures and Algorithms in C++](https://www.cengage.com/c/data-structures-and-algorithms-in-c-plus-plus-4e-drozdek)
+- Data Structures and Algorithms: An Introduction by Mark Allen Weiss: [Data Structures and Algorithms: An Introduction](https://www.pearson.com/us/higher-education/program/Weiss-Data-Structures-and-Algorithm-Analysis-in-C-4th-Edition/PGM1206415.html)
+- Algorithms, Part I and Part II on Codecademy (by UC San Diego):[ Algorithms, Part I](https://www.codecademy.com/learn/paths/algorithms) and [Algorithms, Part II](https://www.codecademy.com/learn/paths/algorithms-part-ii)
+- Data Structures and Algorithms in JavaScript by Michael McMillan:[ Data Structures and Algorithms in JavaScript](https://www.amazon.com/Data-Structures-Algorithms-JavaScript-McMillan/dp/1484242180)
+- Competitive Programmer's Handbook by Antti Laaksonen: [Competitive Programmer's Handbook](https://cses.fi/book/index.html)
 
 ## Software Development Tools:
 - IntelliJ IDEA: IntelliJ IDEA
