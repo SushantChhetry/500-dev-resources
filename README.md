@@ -4,153 +4,152 @@ Boost your coding skills with 500 curated resources in this GitHub repository. E
 🌟🌟 Please star this repository if you found any resource useful🌟🌟
 
 
-## Online Learning Platforms:
-- Udemy (https://www.udemy.com/)
-- Coursera (https://www.coursera.org/)
-- edX (https://www.edx.org/)
-- Pluralsight (https://www.pluralsight.com/)
-- Codecademy (https://www.codecademy.com/)
-- Khan Academy (https://www.khanacademy.org/)
-- Udacity (https://www.udacity.com/)
-- Treehouse (https://teamtreehouse.com/)
-- Lynda.com (now LinkedIn Learning) (https://www.linkedin.com/learning/)
-- FreeCodeCamp (https://www.freecodecamp.org/)
+## 📝Online Learning Platforms:
+- [Udemy](https://www.udemy.com/)
+- [Coursera](https://www.coursera.org/)
+- [edX](https://www.edx.org/)
+- [Pluralsight](https://www.pluralsight.com/)
+- [Codecademy](https://www.codecademy.com/)
+- [Khan Academy](https://www.khanacademy.org/)
+- [Udacity](https://www.udacity.com/)
+- [Treehouse](https://teamtreehouse.com/)
+- [Lynda.com(now LinkedIn Learning)](https://www.linkedin.com/learning/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
 
-## Coding Practice and Challenges:
-- LeetCode (https://leetcode.com/)
-- HackerRank (https://www.hackerrank.com/)
-- Codewars (https://www.codewars.com/)
-- Exercism (https://exercism.io/)
-- Project Euler (https://projecteuler.net/)
-- TopCoder (https://www.topcoder.com/)
-- CodeChef (https://www.codechef.com/)
-- HackerEarth (https://www.hackerearth.com/)
-- InterviewBit (https://www.interviewbit.com/)
-- GeeksforGeeks (https://www.geeksforgeeks.org/)
+## 💻Coding Practice and Challenges:
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [Codewars](https://www.codewars.com/)
+- [Exercism](https://exercism.io/)
+- [Project Euler](https://projecteuler.net/)
+- [TopCoder](https://www.topcoder.com/)
+- [CodeChef](https://www.codechef.com/)
+- [HackerEarth](https://www.hackerearth.com/)
+- [InterviewBit](https://www.interviewbit.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
-## Programming Languages and Documentation:
-- Official documentation for Python (Python Docs)
-- Official documentation for JavaScript (JavaScript Docs)
-- Official documentation for Java (Java Docs)
-- Official documentation for C++ (C++ Docs)
-- Official documentation for Ruby (Ruby Docs)
-- Official documentation for PHP (PHP Docs)
-- Official documentation for Go (Go Docs)
-- Official documentation for Swift (Swift Docs)
-- Official documentation for Rust (Rust Docs)
-- Official documentation for C# (C# Docs)
-- Official documentation for HTML (HTML Docs): HTML Docs
-- Official documentation for CSS (CSS Docs): CSS Docs
-- Official documentation for SQL (SQL Docs): SQL Docs
-- Official documentation for TypeScript (TypeScript Docs): TypeScript Docs
-- Official documentation for Kotlin (Kotlin Docs): Kotlin Docs
-- Official documentation for Scala (Scala Docs): Scala Docs
-- Official documentation for SwiftUI (SwiftUI Docs): SwiftUI Docs
-- Official documentation for Dart (Dart Docs): Dart Docs
-- Official documentation for Rust (Rust Docs): Rust Docs
-- Official documentation for R (R Docs): R Docs
-- Official documentation for MATLAB (MATLAB Docs): MATLAB Docs
-- Official documentation for Lua (Lua Docs): Lua Docs
-- Official documentation for Perl (Perl Docs): Perl Docs
-- Official documentation for Groovy (Groovy Docs): Groovy Docs
-- Official documentation for Swift Playgrounds (Swift Playgrounds Docs): Swift Playgrounds Docs
-- Official documentation for Objective-C (Objective-C Docs): Objective-C Docs
-- Official documentation for Shell Scripting (Shell Scripting Docs): Shell Scripting Docs
-- Official documentation for PowerShell (PowerShell Docs): PowerShell Docs
-- Official documentation for Cobol (Cobol Docs): Cobol Docs
-- Official documentation for Fortran (Fortran Docs): Fortran Docs
-- Official documentation for Ada (Ada Docs): Ada Docs
-- Official documentation for Elixir (Elixir Docs): Elixir Docs
-- Official documentation for Erlang (Erlang Docs): Erlang Docs
-- Official documentation for Hadoop (Hadoop Docs): Hadoop Docs
-- Official documentation for Apache Spark (Spark Docs): Spark Docs
-- Official documentation for Angular (Angular Docs): Angular Docs
-- Official documentation for React (React Docs): React Docs
-- Official documentation for Vue.js (Vue.js Docs): Vue.js Docs
-- Official documentation for Ember.js (Ember.js Docs): Ember.js Docs
-- Official documentation for Django (Django Docs): Django Docs
-- Official documentation for Express.js (Express.js Docs): Express.js Docs
-- Official documentation for Ruby on Rails (Rails Docs): Rails Docs
-- Official documentation for Spring Framework (Spring Docs): Spring Docs
-- Official documentation for Hibernate (Hibernate Docs): Hibernate Docs
-- Official documentation for ASP.NET (ASP.NET Docs): ASP.NET Docs
-- Official documentation for Laravel (Laravel Docs): Laravel Docs
-- Official documentation for CodeIgniter (CodeIgniter Docs): CodeIgniter Docs
-- Official documentation for Node.js (Node.js Docs): Node.js Docs
-- Official documentation for GraphQL (GraphQL Docs): GraphQL Docs
-- Official documentation for Apache Kafka (Kafka Docs): Kafka Docs
-- Official documentation for Amazon Web Services (AWS Docs): AWS Docs
-- Official documentation for Google Cloud Platform (GCP Docs): GCP Docs
-- Official documentation for Microsoft Azure (Azure Docs): Azure Docs
-- Official documentation for Docker (Docker Docs): Docker Docs
-- Official documentation for Kubernetes (Kubernetes Docs): Kubernetes Docs
-- Official documentation for Apache HBase (HBase Docs): HBase Docs
-- Official documentation for Apache Cassandra (Cassandra Docs): Cassandra Docs
-- Official documentation for MongoDB (MongoDB Docs): MongoDB Docs
-- Official documentation for Redis (Redis Docs): Redis Docs
-- Official documentation for PostgreSQL (PostgreSQL Docs): PostgreSQL Docs
-- Official documentation for MySQL (MySQL Docs): MySQL Docs
-- Official documentation for SQLite (SQLite Docs): SQLite Docs
-- Official documentation for Apache Lucene (Lucene Docs): Lucene Docs
-- Official documentation for Apache Solr (Solr Docs): Solr Docs
-- Official documentation for TensorFlow (TensorFlow Docs): TensorFlow Docs
-- Official documentation for PyTorch (PyTorch Docs): PyTorch Docs
-- Official documentation for scikit-learn (scikit-learn Docs): scikit-learn Docs
-- Official documentation for NumPy (NumPy Docs): NumPy Docs
-- Official documentation for pandas (pandas Docs): pandas Docs
-- Official documentation for matplotlib (matplotlib Docs): matplotlib Docs
-- Official documentation for seaborn (seaborn Docs): seaborn Docs
-- Official documentation for OpenCV (OpenCV Docs): OpenCV Docs
-- Official documentation for Unity (Unity Docs): Unity Docs
-- Official documentation for Unreal Engine (Unreal Engine Docs): Unreal Engine Docs
-- Official documentation for Flutter (Flutter Docs): Flutter Docs
-- Official documentation for React Native (React Native Docs): React Native Docs
-- Official documentation for Electron (Electron Docs): Electron Docs
-- Official documentation for Backbone.js (Backbone.js Docs): Backbone.js Docs
-- Official documentation for Knockout.js (Knockout.js Docs): Knockout.js Docs
-- Official documentation for Redux (Redux Docs): Redux Docs
-- Official documentation for Apache NiFi (NiFi Docs): NiFi Docs
-- Official documentation for Apache Beam (Beam Docs): Beam Docs
-- Official documentation for Apache Flink (Flink Docs): Flink Docs
-- Official documentation for Apache Storm (Storm Docs): Storm Docs
-- Official documentation for Apache Camel (Camel Docs): Camel Docs
-- Official documentation for Apache CXF (CXF Docs): CXF Docs
-- Official documentation for Sinatra (Sinatra Docs): Sinatra Docs
-- Official documentation for Flask (Flask Docs): Flask Docs
-- Official documentation for Pyramid (Pyramid Docs): Pyramid Docs
-- Official documentation for Laravel (Laravel Docs): Laravel Docs
-- Official documentation for CodeIgniter (CodeIgniter Docs): CodeIgniter Docs
-- Official documentation for Symfony (Symfony Docs): Symfony Docs
-- Official documentation for ASP.NET (ASP.NET Docs): ASP.NET Docs
-- Official documentation for NestJS (NestJS Docs): NestJS Docs
-- Official documentation for Next.js (Next.js Docs): Next.js Docs
-- Official documentation for Svelte (Svelte Docs): Svelte Docs
-- Official documentation for RubyGems (RubyGems Docs): RubyGems Docs
-- Official documentation for CocoaPods (CocoaPods Docs): CocoaPods Docs
-- Official documentation for NPM (NPM Docs): NPM Docs
-- Official documentation for Yarn (Yarn Docs): Yarn Docs
-- Official documentation for Apache Maven (Maven Docs): Maven Docs
-- Official documentation for Gradle (Gradle Docs): Gradle Docs
-- Official documentation for Apache Ant (Ant Docs): Ant Docs
-- Official documentation for Make (Make Docs): Make Docs
-- Official documentation for Git (Git Docs): Git Docs
-- Official documentation for Mercurial (Mercurial Docs): Mercurial Docs
-- Official documentation for SVN (SVN Docs): SVN Docs
-- Official documentation for Perforce (Perforce Docs): Perforce Docs
-- Official documentation for Jira (Jira Docs): Jira Docs
-- Official documentation for Trello (Trello Docs): Trello Docs
-- Official documentation for Jenkins (Jenkins Docs): Jenkins Docs
-- Official documentation for CircleCI (CircleCI Docs): CircleCI Docs
-- Official documentation for Travis CI (Travis CI Docs): Travis CI Docs
-- Official documentation for Selenium (Selenium Docs): Selenium Docs
-- Official documentation for Cypress (Cypress Docs): Cypress Docs
-- Official documentation for JUnit (JUnit Docs): JUnit Docs
-- Official documentation for pytest (pytest Docs): pytest Docs
-- Official documentation for Mocha (Mocha Docs): Mocha Docs
-- Official documentation for Jasmine (Jasmine Docs): Jasmine Docs
-- Official documentation for Protractor (Protractor Docs): Protractor Docs
-- Official documentation for Mockito (Mockito Docs): Mockito Docs
-- Official documentation for Chai (Chai Docs): Chai Docs
+## 👩🏽‍💻Programming Languages and Documentation:
+- [Official documentation for Python](https://docs.python.org/)
+- [Official documentation for JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [Official documentation for Java](https://docs.oracle.com/en/java/) 
+- [Official documentation for C++](https://en.cppreference.com/w/)
+- [Official documentation for Ruby](https://www.ruby-lang.org/en/documentation/)
+- [Official documentation for PHP](https://www.php.net/docs.php)
+- [Official documentation for Go](https://golang.org/doc/) 
+- [Official documentation for Swift](https://docs.swift.org/swift-book/) 
+- [Official documentation for Rust](https://www.rust-lang.org/learn) 
+- [Official documentation for C#](https://docs.microsoft.com/en-us/dotnet/csharp/) 
+- [Official documentation for HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+- [Official documentation for CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Official documentation for SQL](https://dev.mysql.com/doc/)
+- [Official documentation for TypeScript](https://www.typescriptlang.org/docs/)
+- [Official documentation for Kotlin](https://kotlinlang.org/docs/)
+- [Official documentation for Scala](https://docs.scala-lang.org/)
+- [Official documentation for SwiftU](https://developer.apple.com/documentation/swiftui/)
+- [Official documentation for Dart](https://dart.dev/guides)
+- [Official documentation for R](https://www.rdocumentation.org/)
+- [Official documentation for MATLAB](https://www.mathworks.com/help/matlab/)
+- [Official documentation for Lua](https://www.lua.org/manual/)
+- [Official documentation for Perl](https://perldoc.perl.org/)
+- [Official documentation for Groovy](https://groovy-lang.org/documentation.html)
+- [Official documentation for Swift Playgrounds](https://docs.swift.org/swift-book/LanguageGuide/Welcome.html)
+- [Official documentation for Objective-C](https://developer.apple.com/documentation/objectivec/)
+- [Official documentation for Shell Scripting](https://www.gnu.org/software/bash/manual/) 
+- [Official documentation for PowerShell](https://docs.microsoft.com/en-us/powershell/)
+- [Official documentation for Cobol](https://www.cobolstandard.info/)
+- [Official documentation for Fortran](https://gcc.gnu.org/onlinedocs/gfortran/)
+- [Official documentation for Ada (Ada Docs): Ada Docs](https://learn.adacore.com/)
+- [Official documentation for Elixir (Elixir Docs): Elixir Docs](https://hexdocs.pm/elixir/)
+- [Official documentation for Erlang (Erlang Docs): Erlang Docs](https://www.erlang.org/docs)
+- [Official documentation for Hadoop (Hadoop Docs): Hadoop Docs](https://hadoop.apache.org/docs/stable/)
+- [Official documentation for Apache Spark (Spark Docs): Spark Docs](https://spark.apache.org/docs/latest/)
+- [Official documentation for Angular (Angular Docs): Angular Docs](https://angular.io/docs)
+- [Official documentation for React (React Docs): React Docs](https://reactjs.org/docs)
+- [Official documentation for Vue.js (Vue.js Docs): Vue.js Docs](https://v3.vuejs.org/guide/introduction.html)
+- [Official documentation for Ember.js (Ember.js Docs): Ember.js Docs](https://guides.emberjs.com/release/)
+- [Official documentation for Django (Django Docs): Django Docs](https://docs.djangoproject.com/)
+- [Official documentation for Express.js (Express.js Docs): Express.js Docs](https://expressjs.com/)
+- [Official documentation for Ruby on Rails (Rails Docs): Rails Docs](https://guides.rubyonrails.org/)
+- [Official documentation for Spring Framework (Spring Docs): Spring Docs](https://spring.io/docs)
+- [Official documentation for Hibernate (Hibernate Docs): Hibernate Docs](https://hibernate.org/orm/documentation/)
+- [Official documentation for ASP.NET (ASP.NET Docs): ASP.NET Docs](https://docs.microsoft.com/en-us/aspnet/)
+- [Official documentation for Laravel (Laravel Docs): Laravel Docs](https://laravel.com/docs)
+- [Official documentation for CodeIgniter (CodeIgniter Docs): CodeIgniter Docs](https://codeigniter.com/user_guide/)
+- [Official documentation for Node.js (Node.js Docs): Node.js Docs](https://nodejs.org/en/docs/)
+- [Official documentation for GraphQL (GraphQL Docs): GraphQL Docs](https://graphql.org/learn/)
+- [Official documentation for Apache Kafka (Kafka Docs): Kafka Docs](https://kafka.apache.org/documentation/)
+- [Official documentation for Amazon Web Services (AWS Docs): AWS Docs](https://docs.aws.amazon.com/)
+- [Official documentation for Google Cloud Platform (GCP Docs): GCP Docs](https://cloud.google.com/docs)
+- [Official documentation for Microsoft Azure (Azure Docs): Azure Docs](https://docs.microsoft.com/en-us/azure/)
+- [Official documentation for Docker (Docker Docs): Docker Docs](https://docs.docker.com/)
+- [Official documentation for Kubernetes (Kubernetes Docs): Kubernetes Docs](https://kubernetes.io/docs/)
+- [Official documentation for Apache HBase (HBase Docs): HBase Docs](https://hbase.apache.org/book.html)
+- [Official documentation for Apache Cassandra (Cassandra Docs): Cassandra Docs](https://cassandra.apache.org/doc/latest/)
+- [Official documentation for MongoDB (MongoDB Docs): MongoDB Docs](https://docs.mongodb.com/)
+- [Official documentation for Redis (Redis Docs): Redis Docs](https://redis.io/documentation)
+- [Official documentation for PostgreSQL (PostgreSQL Docs): PostgreSQL Docs](https://www.postgresql.org/docs/)
+- [Official documentation for MySQL (MySQL Docs): MySQL Docs](https://dev.mysql.com/doc/)
+- [Official documentation for SQLite (SQLite Docs): SQLite Docs](https://www.sqlite.org/docs.html)
+- [Official documentation for Apache Lucene (Lucene Docs): Lucene Docs](https://lucene.apache.org/core/documentation.html)
+- [Official documentation for Apache Solr (Solr Docs): Solr Docs](https://solr.apache.org/guide/)
+- [Official documentation for TensorFlow (TensorFlow Docs): TensorFlow Docs](https://www.tensorflow.org/guide)
+- [Official documentation for PyTorch (PyTorch Docs): PyTorch Docs](https://pytorch.org/docs/stable/)
+- [Official documentation for scikit-learn (scikit-learn Docs): scikit-learn Docs](https://scikit-learn.org/stable/documentation.html)
+- [Official documentation for NumPy (NumPy Docs): NumPy Docs](https://numpy.org/doc/)
+- [Official documentation for pandas (pandas Docs): pandas Docs](https://pandas.pydata.org/docs/)
+- [Official documentation for matplotlib (matplotlib Docs): matplotlib Docs](https://matplotlib.org/stable/contents.html)
+- [Official documentation for seaborn (seaborn Docs): seaborn Docs](https://seaborn.pydata.org/tutorial.html)
+- [Official documentation for OpenCV (OpenCV Docs): OpenCV Docs](https://docs.opencv.org/)
+- [Official documentation for Unity (Unity Docs): Unity Docs](https://docs.unity3d.com/Manual/index.html)
+- [Official documentation for Unreal Engine (Unreal Engine Docs): Unreal Engine Docs](https://docs.unrealengine.com/en-US/index.html)
+- [Official documentation for Flutter (Flutter Docs): Flutter Docs](https://flutter.dev/docs)
+- [Official documentation for React Native (React Native Docs): React Native Docs](https://reactnative.dev/docs)
+- [Official documentation for Electron (Electron Docs): Electron Docs](https://www.electronjs.org/docs)
+- [Official documentation for Backbone.js (Backbone.js Docs): Backbone.js Docs](https://backbonejs.org/)
+- [Official documentation for Knockout.js (Knockout.js Docs): Knockout.js Docs](https://knockoutjs.com/documentation/introduction.html)
+- [Official documentation for Redux (Redux Docs): Redux Docs](https://redux.js.org/)
+- [Official documentation for Apache NiFi (NiFi Docs): NiFi Docs](https://nifi.apache.org/docs.html)
+- [Official documentation for Apache Beam (Beam Docs): Beam Docs](https://beam.apache.org/documentation/)
+- [Official documentation for Apache Flink (Flink Docs): Flink Docs](https://flink.apache.org/docs/)
+- [Official documentation for Apache Storm (Storm Docs): Storm Docs](https://storm.apache.org/documentation.html)
+- [Official documentation for Apache Camel (Camel Docs): Camel Docs](https://camel.apache.org/manual/latest/index.html)
+- [Official documentation for Apache CXF (CXF Docs): CXF Docs](https://cxf.apache.org/docs/)
+- [Official documentation for Sinatra (Sinatra Docs): Sinatra Docs](http://sinatrarb.com/documentation.html)
+- [Official documentation for Flask (Flask Docs): Flask Docs](https://flask.palletsprojects.com/)
+- [Official documentation for Pyramid (Pyramid Docs): Pyramid Docs](https://docs.pylonsproject.org/projects/pyramid/en/latest/)
+- [Official documentation for Laravel (Laravel Docs): Laravel Docs](https://laravel.com/docs)
+- [Official documentation for CodeIgniter (CodeIgniter Docs): CodeIgniter Docs](https://codeigniter.com/user_guide/)
+- [Official documentation for Symfony (Symfony Docs): Symfony Docs](https://symfony.com/doc/current/index.html)
+- [Official documentation for ASP.NET (ASP.NET Docs): ASP.NET Docs](https://docs.microsoft.com/en-us/aspnet/)
+- [Official documentation for NestJS (NestJS Docs): NestJS Docs](https://docs.nestjs.com/)
+- [Official documentation for Next.js (Next.js Docs): Next.js Docs](https://nextjs.org/docs)
+- [Official documentation for Svelte (Svelte Docs): Svelte Docs](https://svelte.dev/docs)
+- [Official documentation for RubyGems (RubyGems Docs): RubyGems Docs](https://guides.rubygems.org/)
+- [Official documentation for CocoaPods (CocoaPods Docs): CocoaPods Docs](https://guides.cocoapods.org/)
+- [Official documentation for NPM (NPM Docs): NPM Docs](https://docs.npmjs.com/)
+- [Official documentation for Yarn (Yarn Docs): Yarn Docs](https://yarnpkg.com/getting-started)
+- [Official documentation for Apache Maven (Maven Docs): Maven Docs](https://maven.apache.org/guides/)
+- [Official documentation for Gradle (Gradle Docs): Gradle Docs](https://docs.gradle.org/current/userguide/userguide.html)
+- [Official documentation for Apache Ant (Ant Docs): Ant Docs](https://ant.apache.org/manual/)
+- [Official documentation for Make (Make Docs): Make Docs](https://www.gnu.org/software/make/manual/make.html)
+- [Official documentation for Git (Git Docs): Git Docs](https://git-scm.com/doc)
+- [Official documentation for Mercurial (Mercurial Docs): Mercurial Docs](https://www.mercurial-scm.org/guide)
+- [Official documentation for SVN (SVN Docs): SVN Docs](https://subversion.apache.org/docs/)
+- [Official documentation for Perforce (Perforce Docs): Perforce Docs](https://www.perforce.com/manuals)
+- [Official documentation for Jira (Jira Docs): Jira Docs](https://support.atlassian.com/jira-software-cloud/docs/get-started-with-jira-software-cloud/)
+- [Official documentation for Trello (Trello Docs): Trello Docs](https://help.trello.com/)
+- [Official documentation for Jenkins (Jenkins Docs): Jenkins Docs](https://www.jenkins.io/doc/)
+- [Official documentation for CircleCI (CircleCI Docs): CircleCI Docs](https://circleci.com/docs/)
+- [Official documentation for Travis CI (Travis CI Docs): Travis CI Docs](https://docs.travis-ci.com/)
+- [Official documentation for Selenium (Selenium Docs): Selenium Docs](https://www.selenium.dev/documentation/)
+- [Official documentation for Cypress (Cypress Docs): Cypress Docs](https://docs.cypress.io/)
+- [Official documentation for JUnit (JUnit Docs): JUnit Docs](https://junit.org/junit5/docs/current/user-guide/)
+- [Official documentation for pytest (pytest Docs): pytest Docs](https://docs.pytest.org/en/latest/)
+- [Official documentation for Mocha (Mocha Docs): Mocha Docs](https://mochajs.org/)
+- [Official documentation for Jasmine (Jasmine Docs): Jasmine Docs](https://jasmine.github.io/)
+- [Official documentation for Protractor (Protractor Docs): Protractor Docs](https://www.protractortest.org/#/docs)
+- [Official documentation for Mockito (Mockito Docs): Mockito Docs](https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html)
+- [Official documentation for Chai (Chai Docs): Chai Docs](https://www.chaijs.com/api/)
 
 ## Online Coding Communities:
 - Stack Overflow (Stack Overflow)
