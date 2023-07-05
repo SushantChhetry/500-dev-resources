@@ -401,17 +401,17 @@ Boost your coding skills with 500 curated resources in this GitHub repository. E
 - [Papers with Code: Papers with Code](https://paperswithcode.com/)
 - [AI Trends: AI Trends](https://www.aitrends.com/)
 
-## Cybersecurity:
-- OWASP (Open Web Application Security Project): OWASP
-- SANS Institute: SANS Institute
-- National Institute of Standards and Technology (NIST) Cybersecurity Framework: NIST Cybersecurity Framework
-- Krebs on Security: Krebs on Security
-- The Hacker News: The Hacker News
-- Dark Reading: Dark Reading
-- Cybersecurity subreddit: Cybersecurity subreddit
-- Security Now! podcast: Security Now! podcast
-- Offensive Security: Offensive Security
-- Cybersecurity Ventures: Cybersecurity Ventures
+## 🔐Cybersecurity:
+- [OWASP (Open Web Application Security Project): OWASP](https://owasp.org/)
+- [SANS Institute: SANS Institute](https://www.sans.org/)
+- [National Institute of Standards and Technology (NIST) Cybersecurity Framework: NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+- [Krebs on Security: Krebs on Security](https://krebsonsecurity.com/)
+- [The Hacker News: The Hacker News](https://thehackernews.com/)
+- [Dark Reading: Dark Reading](https://www.darkreading.com/)
+- [Cybersecurity subreddit: Cybersecurity subreddit](https://www.reddit.com/r/cybersecurity/)
+- [Security Now! podcast: Security Now! podcast](https://twit.tv/shows/security-now)
+- [Offensive Security: Offensive Security](https://www.offensive-security.com/)
+- [Cybersecurity Ventures: Cybersecurity Ventures](https://cybersecurityventures.com/)
 
 ## Cloud Computing:
 - Amazon Web Services (AWS) Documentation: AWS Documentation
