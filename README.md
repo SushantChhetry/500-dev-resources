@@ -331,27 +331,27 @@ Boost your coding skills with 500 curated resources in this GitHub repository. E
 - [CodeLite: CodeLite](https://codelite.org/)
 - [BlueJ: BlueJ](https://www.bluej.org/)
   
-## Software Engineering Blogs:
-- Martin Fowler's Blog: Martin Fowler's Blog
-- Joel on Software: Joel on Software
-- Coding Horror: Coding Horror
-- A List Apart: A List Apart
-- Signal v. Noise: Signal v. Noise
-- The Daily WTF: The Daily WTF
-- The Pragmatic Bookshelf blog: The Pragmatic Bookshelf blog
-- DEV Community: DEV Community
-- Scott Hanselman's Blog: Scott Hanselman's Blog
-- ThoughtWorks Insights: ThoughtWorks Insights
-- Smashing Magazine: Smashing Magazine
-- CSS-Tricks: CSS-Tricks
-- SitePoint: SitePoint
-- CodeWall: CodeWall
-- Scotch.io: Scotch.io
-- DZone: DZone
-- Hackernoon: Hackernoon
-- Towards Data Science: Towards Data Science
-- UX Planet: UX Planet
-- Better Programming: Better Programming
+## 🎤Software Engineering Blogs:
+- [Martin Fowler's Blog: Martin Fowler's Blog](https://martinfowler.com/)
+- [Joel on Software: Joel on Software](https://www.joelonsoftware.com/)
+- [Coding Horror: Coding Horror](https://blog.codinghorror.com/)
+- [A List Apart: A List Apart](https://alistapart.com/)
+- [Signal v. Noise: Signal v. Noise](https://signalvnoise.com/)
+- [The Daily WTF: The Daily WTF](https://thedailywtf.com/)
+- [The Pragmatic Bookshelf blog: The Pragmatic Bookshelf blog](https://pragprog.com/blog)
+- [DEV Community: DEV Community](https://dev.to/)
+- [Scott Hanselman's Blog: Scott Hanselman's Blog](https://www.hanselman.com/blog)
+- [ThoughtWorks Insights: ThoughtWorks Insights](https://www.thoughtworks.com/insights)
+- [Smashing Magazine: Smashing Magazine](https://www.smashingmagazine.com/)
+- [CSS-Tricks: CSS-Tricks](https://css-tricks.com/)
+- [SitePoint: SitePoint](https://www.sitepoint.com/)
+- [CodeWall: CodeWall](https://www.codewall.co.uk/)
+- [Scotch.io: Scotch.io](https://scotch.io/)
+- [DZone: DZone](https://dzone.com/)
+- [Hackernoon: Hackernoon](https://hackernoon.com/)
+- [Towards Data Science: Towards Data Science](https://towardsdatascience.com/)
+- [UX Planet: UX Planet](https://uxplanet.org/)
+- [Better Programming: Better Programming](https://betterprogramming.pub/)
 
 ## Web Development:
 - MDN Web Docs: MDN Web Docs
