@@ -365,17 +365,17 @@ Boost your coding skills with 500 curated resources in this GitHub repository. E
 - [Web.dev: Web.dev](https://web.dev/)
 - [Speckyboy: Speckyboy](https://speckyboy.com/)
 
-## Mobile App Development:
-- Official Android Developer Documentation: Android Developer Documentation
-- Official iOS Developer Documentation: iOS Developer Documentation
-- React Native Documentation: React Native Documentation
-- Flutter Documentation: Flutter Documentation
-- Ray Wenderlich: Ray Wenderlich
-- AppCoda: AppCoda
-- Ionic Documentation: Ionic Documentation
-- Xamarin Documentation: Xamarin Documentation
-- Mobile App Development subreddit: Mobile App Development subreddit
-- Mobile App Development Weekly Newsletter: Mobile App Development Weekly Newsletter
+## 📲Mobile App Development:
+- [Official Android Developer Documentation: Android Developer Documentation](https://developer.android.com/)
+- [Official iOS Developer Documentation: iOS Developer Documentation](https://developer.apple.com/documentation/)
+- [React Native Documentation: React Native Documentation](https://reactnative.dev/docs)
+- [Flutter Documentation: Flutter Documentation](https://flutter.dev/docs)
+- [Ray Wenderlich: Ray Wenderlich](https://www.raywenderlich.com/)
+- [AppCoda: AppCoda](https://www.appcoda.com/)
+- [Ionic Documentation: Ionic Documentation](https://ionicframework.com/docs)
+- [Xamarin Documentation: Xamarin Documentation](https://docs.microsoft.com/en-us/xamarin/)
+- [Mobile App Development subreddit: Mobile App Development subreddit](https://www.reddit.com/r/androiddev/)
+- [Mobile App Development Weekly Newsletter: Mobile App Development Weekly Newsletter](https://www.mobileappdaily.com/)
 
 ## DevOps and Continuous Integration/Continuous Delivery (CI/CD):
 - Docker Documentation: Docker Documentation
