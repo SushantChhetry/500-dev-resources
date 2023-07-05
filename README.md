@@ -413,17 +413,17 @@ Boost your coding skills with 500 curated resources in this GitHub repository. E
 - [Offensive Security: Offensive Security](https://www.offensive-security.com/)
 - [Cybersecurity Ventures: Cybersecurity Ventures](https://cybersecurityventures.com/)
 
-## Cloud Computing:
-- Amazon Web Services (AWS) Documentation: AWS Documentation
-- Microsoft Azure Documentation: Azure Documentation
-- Google Cloud Documentation: Google Cloud Documentation
-- Cloud Computing subreddit: Cloud Computing subreddit
-- Cloud Academy: Cloud Academy
-- A Cloud Guru: A Cloud Guru
-- Alibaba Cloud Documentation: Alibaba Cloud Documentation
-- IBM Cloud Documentation: IBM Cloud Documentation
-- Oracle Cloud Documentation: Oracle Cloud Documentation
-- VMware Cloud Documentation: VMware Cloud Documentation
+## ☁Cloud Computing:
+- [Amazon Web Services (AWS) Documentation: AWS Documentation](https://docs.aws.amazon.com/)
+- [Microsoft Azure Documentation: Azure Documentation](https://docs.microsoft.com/en-us/azure/)
+- [Google Cloud Documentation: Google Cloud Documentation](https://cloud.google.com/docs)
+- [Cloud Computing subreddit: Cloud Computing subreddit](https://www.reddit.com/r/cloudcomputing/)
+- [Cloud Academy: Cloud Academy](https://cloudacademy.com/)
+- [A Cloud Guru: A Cloud Guru](https://acloudguru.com/)
+- [Alibaba Cloud Documentation: Alibaba Cloud Documentation](https://www.alibabacloud.com/help)
+- [IBM Cloud Documentation: IBM Cloud Documentation](https://cloud.ibm.com/docs)
+- [Oracle Cloud Documentation: Oracle Cloud Documentation](https://docs.oracle.com/en/cloud/)
+- [VMware Cloud Documentation: VMware Cloud Documentation](https://docs.vmware.com/)
 
 ## Software Engineering Books:
 - Clean Code by Robert C. Martin: Clean Code
