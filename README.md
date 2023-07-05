@@ -377,17 +377,17 @@ Boost your coding skills with 500 curated resources in this GitHub repository. E
 - [Mobile App Development subreddit: Mobile App Development subreddit](https://www.reddit.com/r/androiddev/)
 - [Mobile App Development Weekly Newsletter: Mobile App Development Weekly Newsletter](https://www.mobileappdaily.com/)
 
-## DevOps and Continuous Integration/Continuous Delivery (CI/CD):
-- Docker Documentation: Docker Documentation
-- Kubernetes Documentation: Kubernetes Documentation
-- Jenkins Documentation: Jenkins Documentation
-- Travis CI Documentation: Travis CI Documentation
-- CircleCI Documentation: CircleCI Documentation
-- GitLab CI/CD Documentation: GitLab CI/CD Documentation
-- AWS DevOps Blog: AWS DevOps Blog
-- Google Cloud DevOps Documentation: Google Cloud DevOps Documentation
-- DevOps subreddit: DevOps subreddit
-- DevOps.com: DevOps.com
+## 🌊DevOps and Continuous Integration/Continuous Delivery (CI/CD):
+- [Docker Documentation: Docker Documentation](https://docs.docker.com/)
+- [Kubernetes Documentation: Kubernetes Documentation](https://kubernetes.io/docs/)
+- [Jenkins Documentation: Jenkins Documentation](https://www.jenkins.io/doc/)
+- [Travis CI Documentation: Travis CI Documentation](https://docs.travis-ci.com/)
+- [CircleCI Documentation: CircleCI Documentation](https://circleci.com/docs/)
+- [GitLab CI/CD Documentation: GitLab CI/CD Documentation](https://docs.gitlab.com/ee/ci/)
+- [AWS DevOps Blog: AWS DevOps Blog](https://aws.amazon.com/blogs/devops/)
+- [Google Cloud DevOps Documentation: Google Cloud DevOps Documentation](https://cloud.google.com/devops)
+- [DevOps subreddit: DevOps subreddit](https://www.reddit.com/r/devops/)
+- [DevOps.com: DevOps.com](https://devops.com/)
 
 ## Artificial Intelligence and Machine Learning:
 - TensorFlow Documentation: TensorFlow Documentation
