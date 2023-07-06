@@ -548,6 +548,24 @@ Article: [Working Effectively with Legacy Code](https://www.informit.com/store/w
 - [Software Testing Types (Unit, Integration, System, Acceptance)](https://www.guru99.com/testing-types.html)
 - [Network Protocols (TCP/IP, HTTP, DNS)](https://www.geeksforgeeks.org/computer-network-protocols/)
 
+## 🗣 Soft skills
+- [Effective Communication](https://www.skillsyouneed.com/general/communication-skills.html) 
+- [Collaboration and Teamwork](https://www.skillsyouneed.com/interpersonal-skills.html) 
+- [Problem-Solving](https://www.mindtools.com/pages/main/newMN_CT.htm)
+- [Adaptability](https://www.businessnewsdaily.com/10999-adaptability-skills.html)
+- [Time Management](https://www.mindtools.com/pages/main/newMN_HTE.htm)
+- [Leadership](https://www.skillsyouneed.com/leadership-skills.html)
+- [Empathy and Emotional Intelligence](https://www.psychologytoday.com/us/basics/emotional-intelligence)
+- [Conflict Resolution](https://www.indeed.com/career-advice/career-development/conflict-resolution-skills)
+- [Critical Thinking](https://www.skillsyouneed.com/learn/critical-thinking.html)
+- [Creativity and Innovation](https://www.lifehack.org/articles/featured/10-ways-to-enhance-your-creativity.html)
+- [Decision Making](https://www.mindtools.com/pages/main/newMN_TED.htm)
+- [Continuous Learning](https://www.skillsyouneed.com/learn/continuous-learning.html)
+- [Empowering Others](https://www.forbes.com/sites/forbescoachescouncil/2020/01/14/how-to-empower-others-in-the-workplace/?sh=78e5428c17b9)
+- [Active Listening](https://www.skillsyouneed.com/ips/active-listening.html)
+- [Resilience](https://www.apa.org/topics/resilience)
+
+  
 ## 🐣Must follow twitter accounts
 - Linus Torvalds - [@Linus__Torvalds](https://twitter.com/Linus__Torvalds)
 - Jeff Atwood - [@codinghorror](https://twitter.com/codinghorror)
