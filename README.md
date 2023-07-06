@@ -448,17 +448,6 @@ Boost your coding skills with 500 curated resources in this GitHub repository. E
 - Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Jez Humble and David Farley:[ Continuous Delivery
 ](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
 
-## Software Engineering Podcasts:
-- Software Engineering Radio: Software Engineering Radio
-- The Changelog: The Changelog
-- Developer Tea: Developer Tea
-- Hanselminutes: Hanselminutes
-- Ruby Rogues: Ruby Rogues
-- Software Engineering Daily: Software Engineering Daily
-- Full Stack Radio: Full Stack Radio
-- The Stack Overflow Podcast: The Stack Overflow Podcast
-- Coding Blocks: Coding Blocks
-- JavaScript Jabber: JavaScript Jabber
 
 ## 👨🏽‍🏫Online Courses and Tutorials:
 - The Complete Web Developer Bootcamp (Udemy): [The Complete Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
@@ -489,49 +478,49 @@ Boost your coding skills with 500 curated resources in this GitHub repository. E
 - Brian Chesky - CEO of Airbnb: [Brian Chesky on Twitter](https://twitter.com/bchesky)
 - Jack Dorsey - CEO of Twitter and Square: [Jack Dorsey on Twitter](https://twitter.com/jack)
 
-## Github Repositories
+## ✨Github Repositories
 - The Odin Project: A full-stack curriculum and learning platform for web development.
-Repository: The Odin Project
+Repository: [The Odin Project](https://github.com/TheOdinProject/curriculum)
 - FreeCodeCamp: A nonprofit community that provides free coding resources and certifications.
-Repository: FreeCodeCamp
+Repository: [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 - 30 seconds of code: A curated collection of useful JavaScript snippets for various use cases.
-Repository: 30 seconds of code
+Repository: [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code)
 - Public APIs: A collection of free APIs for use in software and web development projects.
-Repository: Public APIs
+Repository: [Public APIs](https://github.com/public-apis/public-apis)
 - Coding Interview University: A comprehensive computer science and programming interview preparation repository.
-Repository: Coding Interview University
+Repository: [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - Project-Based Learning: A collection of practical project ideas for learning programming.
-Repository: Project-Based Learning
+Repository: [Project-Based Learning](https://github.com/tuvtran/project-based-learning)
 - First Contributions: A beginner-friendly repository to help you make your first open-source contribution.
-Repository: First Contributions
+Repository: [First Contributions](https://github.com/firstcontributions/first-contributions)
 - Hacktoberfest: An event encouraging open-source contributions during the month of October.
-Repository: Hacktoberfest
+Repository:[ Hacktoberfest](https://github.com/Hacktoberfest)
 - Coding Challenges: A repository with various coding challenges and solutions in multiple programming languages.
-Repository: Coding Challenges
+Repository: [Coding Challenges](https://github.com/donnemartin/coding-interview-study-guide)
 - Awesome: A curated list of awesome lists for various programming languages, frameworks, and tools.
-Repository: Awesome
+Repository: [Awesome](https://github.com/sindresorhus/awesome)
 
-## Must reads articles
+## 📖Must reads articles
 - "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin
-Article: Clean Code
+Article: [Clean Code](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - "The Twelve-Factor App" by Adam Wiggins
-Article: The Twelve-Factor App
+Article: [The Twelve-Factor App](https://12factor.net/)
 - "The Law of Leaky Abstractions" by Joel Spolsky
-Article: The Law of Leaky Abstractions
+Article: [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 - "The Pragmatic Programmer's Guide" by Andrew Hunt and David Thomas
-Article: The Pragmatic Programmer
+Article: [The Pragmatic Programmer](https://pragprog.com/the-pragmatic-programmer/extracts/tips)
 - "The Cathedral and the Bazaar" by Eric S. Raymond
-Article: The Cathedral and the Bazaar
+Article: [The Cathedral and the Bazaar](https://www.catb.org/esr/writings/cathedral-bazaar/)
 - "How to Write Unmaintainable Code" by Roedy Green
-Article: How to Write Unmaintainable Code
+Article: [How to Write Unmaintainable Code](https://thc.org/root/phun/unmaintain.html)
 - "The Joel Test: 12 Steps to Better Code" by Joel Spolsky
-Article: The Joel Test
+Article:[ The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 - "Design Patterns: Elements of Reusable Object-Oriented Software" by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
-Article: Design Patterns
+Article: [Design Patterns](https://sourcemaking.com/design_patterns)
 - "The Mythical Man-Month: Essays on Software Engineering" by Frederick P. Brooks Jr.
-Article: The Mythical Man-Month
+Article: [The Mythical Man-Month](https://dl.acm.org/doi/10.1145/1315311)
 - "Working Effectively with Legacy Code" by Michael C. Feathers
-Article: Working Effectively with Legacy Code
+Article: [Working Effectively with Legacy Code](https://www.informit.com/store/working-effectively-with-legacy-code-9780131177055)
 
 ## Must know concepts
 - Data Structures and Algorithms Link: Data Structures and Algorithms
