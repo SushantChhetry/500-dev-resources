@@ -548,30 +548,30 @@ Article: [Working Effectively with Legacy Code](https://www.informit.com/store/w
 - [Software Testing Types (Unit, Integration, System, Acceptance)](https://www.guru99.com/testing-types.html)
 - [Network Protocols (TCP/IP, HTTP, DNS)](https://www.geeksforgeeks.org/computer-network-protocols/)
 
-## Must follow twitter accounts
-- Linus Torvalds - @Linus__Torvalds
-- Jeff Atwood - @codinghorror
-- John Carmack - @ID_AA_Carmack
-- Mary Poppendieck - @mpoppendieck
-- Venkat Subramaniam - @venkat_s
-- Eric Elliott - @_ericelliott
-- Sarah Mei - @sarahmei
-- Kent Beck - @KentBeck
-- Uncle Bob Martin - @unclebobmartin
-- Addy Osmani - @addyosmani
-- Sandi Metz - @sandimetz
-- Yehuda Katz - @wycats
-- Dan Abramov - @dan_abramov
-- Danny Thompson - https://twitter.com/DThompsonDev 
-- Francesco -  https://twitter.com/FrancescoCiull4 
-- Saran Pariyar - https://twitter.com/saran_pariyar1 
-- Velp - https://twitter.com/velpcode 
-- Ellie - https://twitter.com/elliezub 
-- Rachael Favour Adebanwo - https://twitter.com/rachaelcodesss 
-- Shawn Charles - https://twitter.com/ShawnBasquiat 
-- Alex - https://twitter.com/AxelGarciaK 
-- Krupali - https://twitter.com/chai_really 
-- Sushant - https://twitter.com/SushantChhetryy 
+## 🐣Must follow twitter accounts
+- Linus Torvalds - [@Linus__Torvalds](https://twitter.com/Linus__Torvalds)
+- Jeff Atwood - [@codinghorror](https://twitter.com/codinghorror)
+- John Carmack - [@ID_AA_Carmack](https://twitter.com/ID_AA_Carmack)
+- Mary Poppendieck - [@mpoppendieck](https://twitter.com/mpoppendieck)
+- Venkat Subramaniam - [@venkat_s](https://twitter.com/venkat_s)
+- Eric Elliott - [@_ericelliott](https://twitter.com/_ericelliott)
+- Sarah Mei - [@sarahmei](https://twitter.com/sarahmei)
+- Kent Beck - [@KentBeck](https://twitter.com/KentBeck)
+- Uncle Bob Martin - [@unclebobmartin](https://twitter.com/unclebobmartin)
+- Addy Osmani - [@addyosmani](https://twitter.com/addyosmani)
+- Sandi Metz - [@sandimetz](https://twitter.com/sandimetz)
+- Yehuda Katz - [@wycats](https://twitter.com/wycats)
+- Dan Abramov - [@dan_abramov](https://twitter.com/dan_abramov)
+- Danny Thompson - [@DThompsonDev ](https://twitter.com/DThompsonDev )
+- Francesco -  [@FrancescoCiull4 ](https://twitter.com/FrancescoCiull4 )
+- Saran Pariyar - [@saran_pariyar1 ](https://twitter.com/saran_pariyar1 )
+- Velp - [@velpcode ](https://twitter.com/velpcode )
+- Ellie - [@elliezub](https://twitter.com/elliezub ) 
+- Rachael Favour Adebanwo - [@rachaelcodesss ](https://twitter.com/rachaelcodesss )
+- Shawn Charles -[ @ShawnBasquiat ](https://twitter.com/ShawnBasquiat )
+- Alex - [@AxelGarciaK ](https://twitter.com/AxelGarciaK)
+- Krupali -  [@chai_really](https://twitter.com/chai_really  )  
+- Sushant - [@SushantChhetryy ](https://twitter.com/SushantChhetryy )
 
 These resources cover a wide range of topics and can help software engineers enhance their skills, expand their knowledge, and stay updated with industry trends. Remember to choose resources based on your specific interests and learning goals. Happy learning!
 
