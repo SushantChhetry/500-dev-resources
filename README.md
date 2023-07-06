@@ -522,31 +522,31 @@ Article: [The Mythical Man-Month](https://dl.acm.org/doi/10.1145/1315311)
 - "Working Effectively with Legacy Code" by Michael C. Feathers
 Article: [Working Effectively with Legacy Code](https://www.informit.com/store/working-effectively-with-legacy-code-9780131177055)
 
-## Must know concepts
-- Data Structures and Algorithms Link: Data Structures and Algorithms
-- Object-Oriented Programming (OOP) Link: Introduction to OOP
-- Design Patterns Link: Design Patterns
-- Software Development Life Cycle (SDLC) Link: Software Development Life Cycle
-- Version Control Systems (e.g., Git) Link: Git Documentation
-- Relational Databases and SQL Link: SQL Tutorial
-- Web Development (HTML, CSS, JavaScript) Link: MDN Web Docs
-- RESTful APIs Link: RESTful API Design
-- Testing (Unit Testing, Integration Testing) Link: Introduction to Testing
-- Continuous Integration and Continuous Delivery (CI/CD) Link: CI/CD with Jenkins
-- Security Best Practices Link: OWASP Top Ten 
-- Performance Optimization Link: Performance Optimization Tips
-- Software Design Principles (SOLID, DRY, KISS, etc.) Link: SOLID Principles
-- Agile Methodologies (Scrum, Kanban) Link: Agile Manifesto
-- Cloud Computing Link: Cloud Computing Basics
-- Microservices Architecture Link: Microservices Architecture
-- Containerization (Docker) Link: Docker Documentation
-- Virtualization (Virtual Machines) Link: Virtualization Basics
-- Big Data Concepts Link: Big Data Tutorial
-- Machine Learning and AI Link: Machine Learning Crash Course
-- Internet of Things (IoT) Link: Introduction to IoT
-- DevOps Principles and Practices Link: DevOps Culture
-- Software Testing Types (Unit, Integration, System, Acceptance) Link: Types of Software Testing
-- Network Protocols (TCP/IP, HTTP, DNS) Link: TCP/IP Tutorial
+## 🖋Must know concepts
+- [Data Structures and Algorithms](https://www.geeksforgeeks.org/data-structures/)
+- [Object-Oriented Programming (OOP)](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
+- [Design Patterns](https://sourcemaking.com/design_patterns)
+- [Software Development Life Cycle (SDLC)](https://www.tutorialspoint.com/sdlc/index.htm) 
+- [Version Control Systems (e.g., Git)](https://git-scm.com/doc) 
+- [Relational Databases and SQL](https://www.w3schools.com/sql/)
+- [Web Development (HTML, CSS, JavaScript)](https://developer.mozilla.org/en-US/docs/Web) 
+- [RESTful APIs](https://restfulapi.net/) 
+- [Testing (Unit Testing, Integration Testing)](https://www.guru99.com/software-testing.html)
+- [Continuous Integration and Continuous Delivery (CI/CD)](https://www.jenkins.io/doc/book/) 
+- [Security Best Practices](https://owasp.org/www-project-top-ten/)
+- [Performance Optimization](https://developers.google.com/web/fundamentals/performance)
+- [Software Design Principles (SOLID, DRY, KISS, etc.)](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+- [Agile Methodologies (Scrum, Kanban)](https://agilemanifesto.org/)
+- [Cloud Computing](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/)
+- [Microservices Architecture](https://microservices.io/)
+- [Containerization (Docker)](https://docs.docker.com/)
+- [Virtualization (Virtual Machines)](https://www.redhat.com/en/topics/virtualization)
+- [Big Data Concepts](https://www.tutorialspoint.com/big_data/index.htm)
+- [Machine Learning and AI](https://developers.google.com/machine-learning/crash-course)
+- [Internet of Things (IoT)](https://www.investopedia.com/terms/i/internet-of-things-iot.asp) 
+-[ DevOps Principles and Practices](https://aws.amazon.com/devops/what-is-devops/)
+- [Software Testing Types (Unit, Integration, System, Acceptance)](https://www.guru99.com/testing-types.html)
+- [Network Protocols (TCP/IP, HTTP, DNS)](https://www.geeksforgeeks.org/computer-network-protocols/)
 
 ## Must follow twitter accounts
 - Linus Torvalds - @Linus__Torvalds
